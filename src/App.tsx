@@ -4,7 +4,7 @@ import Launch from './components/Launch';
 import LaunchDetails from './components/LaunchDetails';
 import Header from './components/Header/Header';
 import Background from './components/BackgroundComponent/Background';
-
+import LaunchesUi from './components/LaunchesUI/Launches.ui';
 
 
 const App = () => {
@@ -13,7 +13,8 @@ const App = () => {
       <Header />
       <Background />
       {/* <Launch /> */}
-      {/* <LaunchDetails /> */}
+      <LaunchesUi />
+      {/* <LaunchDetails />  */}
     </div>
   );
 }

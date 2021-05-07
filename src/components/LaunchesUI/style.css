@@ -1,0 +1,13 @@
+.launchesUI{
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: #000;
+}
+
+.mission-container{
+    padding: 10px;
+    width:100%;
+    height: 40%;
+    border-radius: 5px;
+    background-color:gray;
+}
