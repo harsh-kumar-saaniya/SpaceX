@@ -5,8 +5,7 @@ const Background = () => {
     return (
         <div>
             <div className="background-image-container">
-                {/* <img src="https://investorplace.com/wp-content/uploads/2021/03/astronaut.jpg" /> */}
-                <div className="bg-image"></div>
+                <img src="https://investorplace.com/wp-content/uploads/2021/03/astronaut.jpg" />
             </div>
         </div>
     )
