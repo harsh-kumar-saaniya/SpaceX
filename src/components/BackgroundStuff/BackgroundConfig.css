@@ -7,11 +7,13 @@
     background-repeat: no-repeat;
     
 } */
-.background-container{
+
+.background-container {
     width: 100%;
     height: 100vh;
 }
-.backgroundImage{
+
+.backgroundImage {
     background: url('../../Images/astronaut.jpg');
     width: 100%;
     height: 100%;
@@ -19,19 +21,25 @@
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    
 }
 
-.heading{
+.heading {
     /* border: 20px solid blue; */
     display: flex;
     justify-content: center;
     align-items: center;
     height: 70vh;
 }
-.heading p{
+
+.heading p {
     color: white;
     font-size: 2.5rem;
     font-weight: bold;
-    /* text-align: center;  */
+    text-align: center;
+}
+
+@media screen and (max-width: 480px) {
+    .heading p {
+        font-size: 2rem;
+    }
 }
