@@ -8,6 +8,3 @@ After Copied this link go and past it in your terminal and then clone the reposi
 ### After run this Command on Terminal
 #### `npm install`
 
-### Short Description of this Branch
-This is second branch and in this branch I've tried to work with UI of this application as per requirement
-
