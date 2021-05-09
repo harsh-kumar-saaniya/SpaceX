@@ -13,7 +13,8 @@ const App = () => {
       <Header />
       <BackgroundConfig />
 
-      <Launch />
+
+      {/* <Launch /> */}
       {/* <LaunchesUi /> */}
       {/* <LaunchDetails />  */}
     </div>
