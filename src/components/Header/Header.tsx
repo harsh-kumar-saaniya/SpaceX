@@ -8,7 +8,6 @@ import IconButton from '@material-ui/core/IconButton';
 import MenuIcon from '@material-ui/icons/Menu';
 import './Header.css';
 
-
 const useStyles = makeStyles((theme) => ({
     root: {
         flexGrow: 1,
@@ -38,7 +37,7 @@ function Header() {
                     </IconButton> */}
                 </Toolbar>
             </AppBar>
-        </div>
+        </div >
     );
 }
 export default Header;

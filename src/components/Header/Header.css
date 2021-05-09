@@ -1,57 +1,10 @@
-.header{
-    border: 1px solid black;
-    width: 100%;
-    /* display:flex;
-    justify-content: space-between;    */ 
-}
-.header-container{
-    border: 1px solid blue;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 30px 0px 30px;
-}
-.logo{
-    width: 5.5rem;
-    height:5rem;
-}
-.main-Logo{
-    width: 20%;
-    height: 5%;
-    border: 1px solid black;
-} 
-.main-Logo> img{
-    width:100% ;
-    height:100% ;
-    object-fit: contain; 
- 
-}
-.nav-bar{
-    /* display: flex; */
-    border: 1px solid black;
-}
-.nav-bar > ul{
-    display: flex;
-    /* justify-content: space-between; */
-    list-style-type: none;
-    /* padding-right:10px; */
-}
-ul> li{
-    padding-right: 10px
-}
-.MuiAppBar-colorPrimary{
+.MuiAppBar-colorPrimary {
+    position: sticky !important;
     background-image:linear-gradient(to right, #2B4872, #070918)  !important;
-}
-.background-image-container{
-    width: 100%;
-    height: 100%
-}
-.background-image-container> img{
-    width: 100%;
+    /* background-color: rgba(44, 62, 99, 0.8)!important; */
 }
 
-.launches{
+.background-image-container {
     width: 100%;
-    height: 5%;
-    background-color: #070918;
+    height: 100%
 }
