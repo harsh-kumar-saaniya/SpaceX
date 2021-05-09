@@ -1,7 +1,7 @@
 import React from 'react';
 import '../Header/Header.css';
 
-const Background = () => {
+const FontComp = () => {
     return (
         <div>
             <div className="background-image-container">
@@ -13,7 +13,7 @@ const Background = () => {
     )
 }
 
-export default Background;
+export default FontComp;
 
 
 ///// NEEED TO CHANGE THE NAME OF THIS FILE AND THIS FOLDER NEED TO MAKE IT MEANINGFULL IT'S NOT MAKING SENSE.
