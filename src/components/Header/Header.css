@@ -1,7 +1,6 @@
 .MuiAppBar-colorPrimary {
     position: sticky !important;
-    /* background-image:linear-gradient(to right, #2B4872, #070918)  !important; */
-    background-color: rgba(44, 62, 99, 0.8)!important;
+    background-image: linear-gradient(to right, #2B4872, #070918) !important;
 }
 
 .background-image-container {
