@@ -5,7 +5,9 @@ const BackgroundConfig = () => {
     return (
         <div className="background-container">
             <div className="backgroundImage">
-                hello world
+                <div className="heading">
+                    <p>Bootcamp Project 8 SpaceX App</p>
+                </div>
             </div>
         </div>
     )
