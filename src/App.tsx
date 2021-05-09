@@ -8,19 +8,12 @@ import BackgroundConfig from './components/BackgroundStuff/BackgroundConfig';
 
 const App = () => {
   return (
-  
     <div className="App">
       <Header />
-<<<<<<< HEAD
+      <BackgroundConfig />
       {/* <Launch />
       <LaunchDetails />  */}
-      <FontComp />
       {/* <Launch /> */}
-=======
-      <BackgroundConfig />
-
-      <Launch />
->>>>>>> 7/5/21
       {/* <LaunchesUi /> */}
       {/* <LaunchDetails />  */}
     </div>
