@@ -23,13 +23,8 @@ const App = () => {
 
       {/* <LaunchDetails />   */}
       
-      {/* <Launch /> */}
       
-      {/* <Launch /> */}
-      
-      {/* <LaunchesUi /> */}
-      
-      {/* <LaunchDetails />  */}
+      <LaunchDetails /> 
     </div>
   );
 }
