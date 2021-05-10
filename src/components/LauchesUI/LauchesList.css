@@ -1,0 +1,59 @@
+.launchesList {
+    /* width: ; */
+    height:100vh;
+}
+
+/* .second-background{
+    background: url('https://www.pixelstalk.net/wp-content/uploads/2016/11/Earth-From-Space-Wallpapers-HD-Desktop.jpg');
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+.launchesContainer {
+    background-color: #0C1733;
+    /* opacity: 0.9; */
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+
+    
+}
+
+.listItems {
+    border: 3px solid black;
+}
+
+.missionName {
+    /* background-color: blue; */
+    padding: 10px;
+    color: white;
+}
+
+/* .missionName>h2{ */
+
+/* color: white;     */
+
+/* } */
+
+.missionYear {
+    /* background-color: pink; */
+    padding: 5px;
+    color: gray;
+}
+
+.Detail {
+    padding: 5px;
+}
+
+.Detail>button {
+    padding: .7rem 3rem .7rem 3rem;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
