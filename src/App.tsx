@@ -16,12 +16,19 @@ const App = () => {
     <div className="App">
       <Header />
       <BackgroundConfig />
-      <LaunchesList />
-      {/* <Launch />
-      <LaunchDetails />  */}
+      
+      {/* <LaunchesList /> */}
+      
+      <Launch />
+
+      {/* <LaunchDetails />   */}
+      
       {/* <Launch /> */}
+      
       {/* <Launch /> */}
+      
       {/* <LaunchesUi /> */}
+      
       {/* <LaunchDetails />  */}
     </div>
   );

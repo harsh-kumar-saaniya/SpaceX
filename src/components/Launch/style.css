@@ -1,3 +1,47 @@
-.mission-container{
-    margin-bottom: 10px;
+.launchesContainer {
+    background-color: #0C1733;
+    /* opacity: 0.9; */
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+.launchesHeading{
+    color: white;
+    /* border: 1px solid black; */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.listItems {
+    border: 2px solid #fdfdfd;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #040d24;
+    margin-bottom: 20px;
+    /* filter: blur(2px); */
+}
+
+.missionName {
+    padding: 10px;
+    color: white;
+}
+
+.missionYear {
+    /* background-color: pink; */
+    padding: 10px;
+    color: gray;
+}
+
+.Detail {
+    padding: 10px;
+}
+
+.Detail>button {
+    padding: .7rem 3rem .7rem 3rem;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
 }

@@ -1,6 +1,6 @@
 .launchesList {
     /* width: ; */
-    height:100vh;
+    height: 100vh;
 }
 
 /* .second-background{
@@ -19,34 +19,36 @@
     padding-left: 5%;
     padding-top: 2%;
     padding-bottom: 1%;
-
-    
+}
+.launchesHeading{
+    color: white;
+    /* border: 1px solid black; */
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 .listItems {
-    border: 3px solid black;
+    border: 2px solid #fdfdfd;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #040d24;
+    margin-bottom: 20px;
+    /* filter: blur(2px); */
 }
 
 .missionName {
-    /* background-color: blue; */
     padding: 10px;
     color: white;
 }
 
-/* .missionName>h2{ */
-
-/* color: white;     */
-
-/* } */
-
 .missionYear {
     /* background-color: pink; */
-    padding: 5px;
+    padding: 10px;
     color: gray;
 }
 
 .Detail {
-    padding: 5px;
+    padding: 10px;
 }
 
 .Detail>button {
