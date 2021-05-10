@@ -6,7 +6,7 @@ import Header from './components/Header/Header';
 import LaunchesUi from './components/LaunchesUI/Launches.ui';
 import BackgroundConfig from './components/BackgroundStuff/BackgroundConfig';
 import LaunchesList from './components/LauchesUI/LaunchesList';
-
+import Footer from './components/Footer/Footer';
 
 
 
@@ -24,7 +24,8 @@ const App = () => {
       {/* <LaunchDetails />   */}
       
       
-      <LaunchDetails /> 
+      {/* <LaunchDetails />  */}
+      <Footer/>
     </div>
   );
 }
